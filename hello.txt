@@ -1,2 +1,4 @@
-hello! gitHub
-gitの操作方法を学んでいます。
+hello! GitHub
+
+Gitの操作方法を学んでいます。
+branch_aを新しく作ってbranch_aで作業しています。
